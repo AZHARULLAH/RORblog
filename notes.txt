@@ -1,0 +1,3 @@
+rails generate controller welcome index -- for creating contoller
+rake routes -- updating routes
+rails generate model Comment commenter:string body:text article:references -- creating comments model
